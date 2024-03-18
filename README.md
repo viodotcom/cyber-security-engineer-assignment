@@ -52,6 +52,8 @@ An engineer should be able to use curl from their laptop to access an HTTP serve
 
 The assignment should be submitted using your own GitHub repository. You should provide the source code, with a detailed README on how to use the solution.
 
+> **_NOTE_**: Keep the GH repository private, the Recruiter will send you a list of users to allow access.
+
 Additionally, provide a brief document summarizing the steps taken, any challenges faced, and potential improvements for future implementations. Finally, explain the result of the PoC, should the product team adopt this design?
 
 > **_NOTE_**: We recommend that you spend between two and four hours to complete and submit this technical assessment.
